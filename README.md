@@ -6,7 +6,7 @@ The Laravel implementation of Reiser Relief.  This will eventually be migrated t
 composer install
 ```
 
-Generate a key using ```php artisan key:generate``` and rename ```.env.example``` to ```.env``` and set the key in this file.
+Rename ```.env.example``` to ```.env``` and generate a key using ```php artisan key:generate```.
 
 # Usage
 ```
